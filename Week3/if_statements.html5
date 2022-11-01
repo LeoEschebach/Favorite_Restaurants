@@ -1,0 +1,30 @@
+<!DOCTYPE <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>if_statements</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <script src="js_file_address">
+            let cups= 3;
+            if (cups < 3) {
+                console.log ("Yes I'll take another cup of coffee.");
+            }
+            else {
+                console.log("I think I'm okay for now.");
+            }
+            let mileage= 450;
+            if (mileage > 500) {
+                console.log("Yes I think I need an oil change.");
+            }
+            else {
+                console.log("My car doesn't need an oil change yet.");
+            }
+
+
+
+        </script>
+    </body>
+</html>>
